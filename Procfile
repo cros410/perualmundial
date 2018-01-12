@@ -1,1 +1,1 @@
-web: gunicorn perualmundial.wsgi --log-file -
+web: gunicorn mundial.wsgi --log-file -
